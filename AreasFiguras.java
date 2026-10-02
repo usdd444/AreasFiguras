@@ -22,6 +22,7 @@ public class AreasFiguras {
            System.out.println(“Error, opción incorrecta, vuelva a ingresar");
        }
        entrada.close();
+       //prueba de ramas 
    }
 }
 
